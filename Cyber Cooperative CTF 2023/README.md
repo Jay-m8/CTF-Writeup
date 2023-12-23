@@ -1,3 +1,3 @@
-![CTF intro](https://thecybercoopctf.ctfd.io/files/47748b24b492383e0e83f65974b64d7e/JOIN_OUR_DISCORD_COMMUNITY_6.png)
+![CTF intro](https://thecybercooperative.org/_astro/TCC-Banner_option1_logo.0b6db89a_Z22R7tq.png)
 
 Hello, this is my first CTF that I have participated in, outside of ones that were conducted during university and my internship.
