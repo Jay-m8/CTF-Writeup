@@ -35,7 +35,7 @@ My next step was to look up Zsteg, how to use it and fortunately it was already 
 
 At this moment I was thinking "Awesome now I can save this as a binary file and use binwalk to extract the files, too easy". Oh how wrong I was. I went to run binwalk, oh it's missing some dependencies...no problem I'll just install them..oh no, those dependencies are missing stuff that are needed to install them. This took hours to try and troubleshoot and I didn't solve it because I got other stuff to do.
 
-![Troubleshooting](https://j.gifs.com/x6GPEJ.gif "Me troubleshooting")
+![Troubleshooting](https://j.gifs.com/x6GPEJ.gif)
 
 I decide to scrap all the steps before Zsteg and do more research on different steganography tools. I eventually come across a Java tool called stegsolve and decided to download and launch it.
 
